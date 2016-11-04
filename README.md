@@ -119,118 +119,118 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 
-- [react-native-splash-screen ★28](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
-- [react-native-check-box ★24](https://github.com/crazycodeboy/react-native-check-box) - Checkbox component for react native, it works on iOS and Android.
-- [react-native-easy-toast ★18](https://github.com/crazycodeboy/react-native-easy-toast) - A react native module to show toast like android, it works on iOS and Android.
-- [react-native-button-component ★45](https://github.com/jacklam718/react-native-button-component) - A Beautiful, Customizable React Native Button component for iOS & Android
-- [react-native-popup-dialog ★16](https://github.com/jacklam718/react-native-popup-dialog) - A React Native Popup Dialog Easy Use & Support Use Custom Animation. For IOS & Android
-- [react-native-card-view ★20](https://github.com/jacklam718/react-native-card-view) - A react native card component
-- [apsl-react-native-button ★240](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
-- [autoresponsive-react-native ★68](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
-- [ex-navigation ★361](https://github.com/exponentjs/ex-navigation) - A route-centric, batteries-included navigation library for Exponent and React Native that works seamlessly on Android and iOS.
-- [ex-navigator ★464](https://github.com/exponentjs/ex-navigator) - Route-centric navigation built on top of React Native's Navigator
-- [navbar-native ★1](https://github.com/redbaron76/navbar-native) - A new, fully customizable Navbar component for React-Native
+- [react-native-splash-screen ★28](https://github.com/crazycodeboy/react-native-splash-screen) - 一个进场动画,解决进场白屏的问题.
+- [react-native-check-box ★24](https://github.com/crazycodeboy/react-native-check-box) -跨平台的 check-box.
+- [react-native-easy-toast ★18](https://github.com/crazycodeboy/react-native-easy-toast) -跨品台的 toast.
+- [react-native-button-component ★45](https://github.com/jacklam718/react-native-button-component) - 跨平台的 一款漂亮的按钮
+- [react-native-popup-dialog ★16](https://github.com/jacklam718/react-native-popup-dialog) - 跨平台的 弹出框dialog
+- [react-native-card-view ★20](https://github.com/jacklam718/react-native-card-view) - 卡片布局
+- [apsl-react-native-button ★240](https://github.com/APSL/react-native-button) - 简单的一套按钮.
+- [autoresponsive-react-native ★68](https://github.com/xudafeng/autoresponsive-react-native) - 瀑布式的响应布局
+- [ex-navigation ★361](https://github.com/exponentjs/ex-navigation) - 跨平台的  路由导航
+- [ex-navigator ★464](https://github.com/exponentjs/ex-navigator) - 路由 导航
+- [navbar-native ★1](https://github.com/redbaron76/navbar-native) - 导航工具栏
 - [react-native-router-sinux ★ ★1](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation.
-- [react-native-router-flux ★2018](https://github.com/aksonov/react-native-router-flux) - React Native Router based on new React Native Navigation API
+- [react-native-router-flux ★2018](https://github.com/aksonov/react-native-router-flux) - 功能强大的导航路由
 - [react-native-mobx ★47](https://github.com/aksonov/react-native-mobx) - Make your app reactive with MobX and react-native-router-flux
 - [react-native-ya-navigator ★43](https://github.com/xxsnakerxx/react-native-ya-navigator) - Yet another react native navigator component
-- [gl-react-native ★856](https://github.com/ProjectSeptemberInc/gl-react-native) - use OpenGL for performant effects on images and videos
-- [k-react-native-swipe-unlocker ★19](https://github.com/leowang721/k-react-native-swipe-unlocker) - A simple swipe unlock for React Native
-- [metpro-react-native-progress ★19](https://github.com/imartingraham/react-native-progress) - Progress indicators and spinners for React Native using ReactART.
-- [react-native-accordion ★167](https://github.com/naoufal/react-native-accordion) - An Accordion Component for React Native
-- [react-native-action-button ★383](https://github.com/mastermoo/react-native-action-button) - A customizable Float Button Component for React Native
-- [react-native-actionsheet-native ★6](https://github.com/slowpath/react-native-actionsheet) - Android ActionSheet support for React Native
-- [react-native-activity-view ★247](https://github.com/naoufal/react-native-activity-view) - iOS share and action sheets for React Native
-- [react-native-adbannerview ★35](https://github.com/Purii/react-native-adbannerview) - React Native Bridge for ADBannerView
-- [react-native-alphabetlistview ★84](https://github.com/sunnylqm/react-native-alphabetlistview) - A Listview with a sidebar to jump to sections directly, based on johanneslumpe's react-native-selectablesectionlistview
-- [react-native-android-blurryoverlay ★38](https://github.com/kwaak/react-native-android-blurryoverlay) - A react native android package to show a blurry overlay.
-- [react-native-android-circles ★9](https://github.com/kwaak/react-native-android-circles) - A react native android package to show a circle progress view.
-- [react-native-android-iconify ★27](https://github.com/lwhiteley/react-native-android-iconify) - icons for react native android using android-iconify
-- [react-native-android-kit ★48](https://github.com/ayoubdev/react-native-android-kit) - A set of native Android UI components and modules for React Native framework (Android Design Support Library, TabLayout, Floating Action Button and more...).
-- [react-native-android-statusbar ★85](https://github.com/NishanthShankar/react-native-android-statusbar) - A react native android package to control the status bar.
-- [react-native-app-intro ★424](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
-- [react-native-awesome-button ★91](https://github.com/larsvinter/react-native-awesome-button) - A React Native component rendering a button supporting showing different appearances and functionality given the passed props
-- [react-native-autolink ★43](https://github.com/joshswan/react-native-autolink) - Autolinking component for React Native
-- [react-native-autocomplete ★90](https://github.com/nulrich/RCTAutoComplete) - React Native Component for MLPAutoCompleteTextField
-- [react-native-autocomplete-input ★35](https://github.com/l-urence/react-native-autocomplete-input) - Pure javascript autocomplete input for react-native
-- [react-native-avatar-gravatar ★7](https://github.com/niborb/react-native-gravatar) - React Native Gravatar component
-- [react-native-bar-collapsible ★2](https://github.com/caroaguilar/react-native-bar-collapsible) - A Bar component that can be collapsible (toggle/accordion), clickable or text-only.
-- [react-native-blur ★608](https://github.com/Kureev/react-native-blur) - React Native Blur component
-- [react-native-fxblurview ★11](https://github.com/magus/react-native-fxblurview) - React Native wrapper for popular FXBlurView library for realtime, fine-tuned blur effects
-- [react-native-button ★357](https://github.com/ide/react-native-button)
-- [react-native-bottom-sheet-behavior ★1](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - A react native wrapper for android BottomSheetBehavior.
-- [react-native-cache-image ★67](https://github.com/remobile/react-native-cache-image) - A cache-image for react-native
-- [react-native-cacheable-image ★10](https://github.com/jayesbe/react-native-cacheable-image) - A filesystem cacheable image component for react-native
-- [react-native-calendar-android ★31](https://github.com/chymtt/ReactNativeCalendarAndroid) - A simple material-themed calendar for react native android
-- [react-native-calendar-datepicker ★5](https://github.com/vlad-doru/react-native-calendar-datepicker) - A cross-platform calendar datepicker
-- [react-native-calendar ★164](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
-- [react-native-canvas ★74](https://github.com/lwansbrough/react-native-canvas) - A Canvas element for React Native
-- [react-native-carousel ★227](https://github.com/nick/react-native-carousel) - Simple carousel component for react-native
-- [react-native-carousel-control ★55](https://github.com/machadogj/react-native-carousel-control) - React Native Carousel control with support for iOS and Android.
-- [react-native-chart ★550](https://github.com/onefold/react-native-chart) - react-native-chart is a simple module for adding line charts, area charts, or bar charts to your React Native app.
-- [react-native-charts ★42](https://github.com/PrazAs/react-native-charts) - Delightfully-animated data visualization.
-- [react-native-checkbox ★41](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native
-- [react-native-circle-checkbox ★11](https://github.com/ParamoshkinAndrew/ReactNativeCircleCheckbox) - Circle checkbox component for React Native
-- [react-native-circle-progress ★22](https://github.com/guodong000/react-native-circle-progress) - A custom Circle Progress Indicator for React Native
-- [react-native-circle-view ★28](https://github.com/nucleartux/react-native-circle-view) - circle progress for react native android using CircleView
-- [react-native-circular-progress ★205](https://github.com/bgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
-- [react-native-collapsible ★211](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
-- [react-native-countdown ★10](https://github.com/buhe/react-native-countdown) - react native countdown button
-- [react-native-country-picker ★3](https://github.com/tofugear/react-native-country-picker) - React Native Country Picker
-- [react-native-country-picker-modal ★73](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
+- [gl-react-native ★856](https://github.com/ProjectSeptemberInc/gl-react-native) - OpenGL 工具
+- [k-react-native-swipe-unlocker ★19](https://github.com/leowang721/k-react-native-swipe-unlocker) - 解锁图
+- [metpro-react-native-progress ★19](https://github.com/imartingraham/react-native-progress) - 进度条工具.
+- [react-native-accordion ★167](https://github.com/naoufal/react-native-accordion) - 手风琴效果
+- [react-native-action-button ★383](https://github.com/mastermoo/react-native-action-button) -悬浮的按钮
+- [react-native-actionsheet-native ★6](https://github.com/slowpath/react-native-actionsheet) - 安卓的 仿ios ActionSheet 效果
+- [react-native-activity-view ★247](https://github.com/naoufal/react-native-activity-view) - ios 一款分享和 actionSheet 效果
+- [react-native-adbannerview ★35](https://github.com/Purii/react-native-adbannerview) - 广告 ADBannerView
+- [react-native-alphabetlistview ★84](https://github.com/sunnylqm/react-native-alphabetlistview) - 一个边侧有导航的列表试图,比如地区列表ABC的导航
+- [react-native-android-blurryoverlay ★38](https://github.com/kwaak/react-native-android-blurryoverlay) -一个安卓的延迟动画效果
+- [react-native-android-circles ★9](https://github.com/kwaak/react-native-android-circles) - 一个安卓的原型进度条效果.
+- [react-native-android-iconify ★27](https://github.com/lwhiteley/react-native-android-iconify) - 安卓的一个icon 素材库
+- [react-native-android-kit ★48](https://github.com/ayoubdev/react-native-android-kit) - 安卓的一个kit 库.
+- [react-native-android-statusbar ★85](https://github.com/NishanthShankar/react-native-android-statusbar) - 一款安卓的状态栏工具.
+- [react-native-app-intro ★424](https://github.com/FuYaoDe/react-native-app-intro) - 一个产品介绍分页效果,一般用于进场动画
+- [react-native-awesome-button ★91](https://github.com/larsvinter/react-native-awesome-button) -一个按钮库
+- [react-native-autolink ★43](https://github.com/joshswan/react-native-autolink) - 一个字符串自动识别URL,电话,email的库
+- [react-native-autocomplete ★90](https://github.com/nulrich/RCTAutoComplete) - 一个 MLPAutoCompleteTextField 组件,用于自动完成的检索
+- [react-native-autocomplete-input ★35](https://github.com/l-urence/react-native-autocomplete-input) - 输入框自动联想功能,纯js编写的组件
+- [react-native-avatar-gravatar ★7](https://github.com/niborb/react-native-gravatar) - 加载用户头像的组件,提供圆形,方形的形状
+- [react-native-bar-collapsible ★2](https://github.com/caroaguilar/react-native-bar-collapsible) - 一个手风琴效果.
+- [react-native-blur ★608](https://github.com/Kureev/react-native-blur) - 一个模糊试图 UIVisualEffectView 实现的blur 效果
+- [react-native-fxblurview ★11](https://github.com/magus/react-native-fxblurview) -一个模糊效果,实现毛玻璃效果
+- [react-native-button ★357](https://github.com/ide/react-native-button) 一个按钮类库
+- [react-native-bottom-sheet-behavior ★1](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - 实现了安卓 BottomSheetBehavior 底部上滑视图.
+- [react-native-cache-image ★67](https://github.com/remobile/react-native-cache-image) - 一个图片缓存组件
+- [react-native-cacheable-image ★10](https://github.com/jayesbe/react-native-cacheable-image) - 本地文件缓存图片
+- [react-native-calendar-android ★31](https://github.com/chymtt/ReactNativeCalendarAndroid) - 一个安卓material风格的时钟
+- [react-native-calendar-datepicker ★5](https://github.com/vlad-doru/react-native-calendar-datepicker) - 一个跨平台的 日期 组件
+- [react-native-calendar ★164](https://github.com/christopherdro/react-native-calendar) - 一个时钟组件
+- [react-native-canvas ★74](https://github.com/lwansbrough/react-native-canvas) - 一个canvas组件
+- [react-native-carousel ★227](https://github.com/nick/react-native-carousel) - 一个过渡效果的组件
+- [react-native-carousel-control ★55](https://github.com/machadogj/react-native-carousel-control) - 一个跨平台的过渡效果组件
+- [react-native-chart ★550](https://github.com/onefold/react-native-chart) - 一个图表组件
+- [react-native-charts ★42](https://github.com/PrazAs/react-native-charts) - 一个图表组件
+- [react-native-checkbox ★41](https://github.com/sconxu/react-native-checkbox) - 一个checkbox 组件
+- [react-native-circle-checkbox ★11](https://github.com/ParamoshkinAndrew/ReactNativeCircleCheckbox) - 一个 圆形的checkbox 组件
+- [react-native-circle-progress ★22](https://github.com/guodong000/react-native-circle-progress) -一个圆形加载的进度条
+- [react-native-circle-view ★28](https://github.com/nucleartux/react-native-circle-view) - 一个圆形加载的进度条
+- [react-native-circular-progress ★205](https://github.com/bgryszko/react-native-circular-progress) - 一个圆形进度条
+- [react-native-collapsible ★211](https://github.com/oblador/react-native-collapsible) -一个手风琴效果
+- [react-native-countdown ★10](https://github.com/buhe/react-native-countdown) - 一个倒计时组件
+- [react-native-country-picker ★3](https://github.com/tofugear/react-native-country-picker) - 一个国家选择组件
+- [react-native-country-picker-modal ★73](https://github.com/xcarpentier/react-native-country-picker-modal) -一个国家选择组件,有右侧字母导航.
 - [react-native-create-new-file-ios ★0](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
-- [react-native-credit-card-input](https://github.com/sbycrosz/react-native-credit-card-input) - 💳 💳 Easy (and good looking) credit-card input for your React Native Project
-- [react-native-custom-actsheet ★26](https://github.com/guodong000/react-native-custom-actsheet) - A custom ActionSheet for react-native
-- [react-native-multi-select](https://github.com/hasangilak/react-native-multi-select) - you know select2 on web ? now you have it in react native at your command :)
-- [react-native-custom-checkbox ★3](https://github.com/caroaguilar/react-native-custom-checkbox) - React Native checkbox that can be customize. Works for both Android and iOS.
-- [react-native-dashed-border ★18](https://github.com/chirag04/react-native-dashed-border) - A  element for react-native
-- [react-native-date ★40](https://github.com/nucleartux/react-native-date) - React Native date and time pickers for Android
-- [react-native-timepicker ★8](https://github.com/milasevicius/react-native-timepicker) - React Native timepicker for iOS
-- [react-native-datepicker ★82](https://github.com/xgfe/react-native-datepicker) - React Native date, datetime and time picker for both Android and IOS
-- [react-native-device-display ★73](https://github.com/kkjdaniel/react-native-display-view) - A simple way to create dynamic views through device and display detection, allowing the creation of adaptable and universal apps.
-- [react-native-dialogs ★196](https://github.com/aakashns/react-native-dialogs) - React Native wrappers for https://github.com/afollestad/material-dialogs
+- [react-native-credit-card-input](https://github.com/sbycrosz/react-native-credit-card-input) - 💳 💳 信用卡识别组件
+- [react-native-custom-actsheet ★26](https://github.com/guodong000/react-native-custom-actsheet) - 自定义的actionsheet
+- [react-native-multi-select](https://github.com/hasangilak/react-native-multi-select) - 一个多选的组件
+- [react-native-custom-checkbox ★3](https://github.com/caroaguilar/react-native-custom-checkbox) - 一个自定义的checkbox
+- [react-native-dashed-border ★18](https://github.com/chirag04/react-native-dashed-border) - dash 边框组件
+- [react-native-date ★40](https://github.com/nucleartux/react-native-date) - 一个安卓的时间选择组件
+- [react-native-timepicker ★8](https://github.com/milasevicius/react-native-timepicker) - 一个ios 时间选择组件
+- [react-native-datepicker ★82](https://github.com/xgfe/react-native-datepicker) - 一个跨平台的日期组件
+- [react-native-device-display ★73](https://github.com/kkjdaniel/react-native-display-view) - 一个横屏,竖屏的识别组件
+- [react-native-dialogs ★196](https://github.com/aakashns/react-native-dialogs) - 一个弹出框的组件
 - [react-native-double-buffer ★2](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
 - [react-native-draggable-drawer ★13](https://github.com/llanox/react-native-draggable-drawer) - DraggableDrawer component for React Native.
-- [react-native-drawer ★834](https://github.com/rt2zz/react-native-drawer) - React Native Drawer
+- [react-native-drawer ★834](https://github.com/rt2zz/react-native-drawer) -一个很棒的抽屉效果.
 - [react-native-dropbox-chooser ★13](https://github.com/tinycreative/react-native-dropbox-chooser) - React Native dropbox chooser module
 - [react-native-dropdown-android ★53](https://github.com/chymtt/ReactNativeDropdownAndroid) - Simple wrapper for Android's Spinner to use with react-native
-- [react-native-drop-refresh ★9](https://github.com/Obooman/RCTRefreshControl) - A pull down to refresh control for react native.
-- [react-native-dropdownalert ★43](https://github.com/devBrian/react-native-dropdownalert) - A dropdown alert that allows you to display bits of information to your user.
-- [react-native-dropdown ★193](https://github.com/alinz/react-native-dropdown) - A better Select dropdown menu for react-native
-- [react-native-effects-view ★189](https://github.com/voronianski/react-native-effects-view) - ReactNative Component that makes easy to use iOS8 UIVisualEffect
+- [react-native-drop-refresh ★9](https://github.com/Obooman/RCTRefreshControl) - 下拉刷新组件
+- [react-native-dropdownalert ★43](https://github.com/devBrian/react-native-dropdownalert) - 下拉警告框组件
+- [react-native-dropdown ★193](https://github.com/alinz/react-native-dropdown) - 一个下拉框类似于select的组件
+- [react-native-effects-view ★189](https://github.com/voronianski/react-native-effects-view) - 一个模糊效果组件，类似于ｉｏｓ８UIVisualEffectViews 
 - [react-native-egg ★46](https://github.com/FuYaoDe/react-native-egg) - A easter egg component implementation simple gestures detection achieve trigger can make your react native app infinitely more fun.
 - [react-native-emoji ★58](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native
 - [react-native-emoji-picker ★4](https://github.com/yonahforst/react-native-emoji-picker) - Simple Emoji picker for react-native with optional modal-like component
 - [react-native-fading-slides ★19](https://github.com/chagasaway/react-native-fading-slides) - Simple looped fading slides carousel for React Native
 - [react-native-fit-image ★63](https://github.com/huiseoul/react-native-fit-image) - Responsive image component to fit perfectly itself.
 - [react-native-flanimatedimage](https://github.com/nihgwu/react-native-flanimatedimage) - FLAnimatedImage for React Native.
-- [react-native-flex-label ★5](https://github.com/eccolabs/react-native-flex-label) - A text label for React Native that handles multiple lines of text with ellipses truncation as well as vertical alignment within it's view container.
-- [react-native-floating-labels ★54](https://github.com/mayank-patel/react-native-floating-labels) - Reusabe floating lable component for react native
-- [react-native-foldview ★1](https://github.com/jmurzy/react-native-foldview) - Animated FoldingCell implementation in React Native
+- [react-native-flex-label ★5](https://github.com/eccolabs/react-native-flex-label) - 
+- [react-native-floating-labels ★54](https://github.com/mayank-patel/react-native-floating-labels) - 漂亮的文本动画
+- [react-native-foldview ★1](https://github.com/jmurzy/react-native-foldview) - 折叠试图
 - [react-native-fontbase ★0](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
-- [react-native-fs-modal ★35](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
+- [react-native-fs-modal ★35](https://github.com/kirkness/react-native-fs-modal) - 全屏弹出框
 - [react-native-full-screen ★5](https://github.com/Anthonyzou/react-native-full-screen) - React Native FullScreen api and element
-- [react-native-gesture-password ★136](https://github.com/spikef/react-native-gesture-password) - A gesture password component for React Native
+- [react-native-gesture-password ★136](https://github.com/spikef/react-native-gesture-password) - 一个手势密码
 - [react-native-gesture-recognizers ★117](https://github.com/johanneslumpe/react-native-gesture-recognizers) - Gesture recognizer decorators for react-native
 - [react-native-gestures ★81](https://github.com/kiddkai/react-native-gestures) - composable gesture system in react native
-- [react-native-gifted-chat ★1343](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
-- [react-native-gifted-listview ★555](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrents features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
+- [react-native-gifted-chat ★1343](https://github.com/FaridSafi/react-native-gifted-chat) - 一个全的聊天组件
+- [react-native-gifted-listview ★555](https://github.com/FaridSafi/react-native-gifted-listview) - 一个下拉刷新,加载更多的列表
 - [react-native-gmaps ★70](https://github.com/teamrota/react-native-gmaps) - React Native Android Google Maps implementation.
 - [react-native-geo-fencing ★15](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
 - [react-native-gravatar ★3](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
-- [react-native-grid-component ★5](https://github.com/phil-r/react-native-grid-component) - Easy to use grid component for your react-native project. Supports iOS and Android.
-- [react-native-grid-view ★175](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
+- [react-native-grid-component ★5](https://github.com/phil-r/react-native-grid-component) - 一个跨平台的 网格组件
+- [react-native-grid-view ★175](https://github.com/lucholaf/react-native-grid-view) - R一个网格组件
 - [react-native-grid ★11](https://github.com/thewei/react-native-grid) - The 24-column grid component for react-native
 - [react-native-ichart ★14](https://github.com/AdonRain/react-native-ichart) - ichart for react-native
-- [react-native-icons](https://github.com/corymsmith/react-native-icons), [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50)
+- [react-native-icons](https://github.com/corymsmith/react-native-icons), [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50) 一个比较全的icon 组件
 - [react-native-idle-timer ★18](https://github.com/marcshilling/react-native-idle-timer) - An Objective-C bridge that allows you to enable and disable the screen idle timer in your React Native app
 - [react-native-image-button ★3](https://github.com/remobile/react-native-image-button) - A image-button for react-native
 - [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native
-- [react-native-image-picker ★1052](https://github.com/marcshilling/react-native-image-picker) - A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.
-- [react-native-image-crop-picker ★331](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for multiple images and cropping
+- [react-native-image-picker ★1052](https://github.com/marcshilling/react-native-image-picker) -一个相册选择组件
+- [react-native-image-crop-picker ★331](https://github.com/ivpusic/react-native-image-crop-picker) -一个相册选择组件
 - [react-native-imagewand ★3](https://github.com/NorthFoxz/react-native-imagewand) - image wand for react native
 - [react-native-invertible-scroll-view ★157](https://github.com/exponentjs/react-native-invertible-scroll-view) - An invertible ScrollView for React Native
-- [react-native-item-cell ★34](https://github.com/APSL/react-native-item-cell) - React Native default style iOS item cell
+- [react-native-item-cell ★34](https://github.com/APSL/react-native-item-cell) - 一个仿ios 条目布局的组件
 - [react-native-keyboard-spacer ★250](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) - Plug and play react-Native keyboard spacer view.
 - [react-native-keyboardevents ★197](https://github.com/johanneslumpe/react-native-keyboardevents) - Monitors keyboard show/hide notifications
 - [react-native-layout ★24](https://github.com/jerolimov/react-native-layout) - Semantic JSX layout components for react-native
